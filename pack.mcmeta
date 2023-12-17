@@ -1,0 +1,10 @@
+{
+    "pack": {
+      "pack_format": 18,
+      "surported_formats": {
+        "min_inclusive": 18,
+        "max_inclusive": 26
+      },
+      "description": "§bRon's Datapack"
+    }
+  }

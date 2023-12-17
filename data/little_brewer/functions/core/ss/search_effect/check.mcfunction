@@ -1,0 +1,2 @@
+# active_effect内にこのエフェクトが存在するかチェック
+    $execute unless data entity @s active_effects[{id:"$(id)"}] unless data entity @s active_effects[{id:"minecraft:$(id)"}] run data modify storage little_brewer: temp.zero_check set value 0

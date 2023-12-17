@@ -1,0 +1,1 @@
+execute unless data storage little_brewer: {init:1b} run function little_brewer:core/init
